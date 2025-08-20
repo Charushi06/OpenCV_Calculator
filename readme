@@ -1,0 +1,29 @@
+OpenCV calculator
+
+How to Use This:
+
+Show fingers (1–5) ➝ captured as first number
+
+Make a fist (0 fingers) ➝ switches to operator input
+
+Show:
+
+1 ➝ Add
+
+2 ➝ Subtract
+
+3 ➝ Multiply
+
+4 ➝ Divide
+
+Make a fist again ➝ switches to second number input
+
+Show fingers again ➝ second number
+
+Result is displayed as:
+
+5 + 5 = 10
+
+Press 'r' to reset and try again
+
+Press 'q' to quit
